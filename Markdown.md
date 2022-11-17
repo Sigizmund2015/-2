@@ -23,3 +23,8 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 1.
 
 2.
+
+
+
+***
+Попробуем добавить картинку и удалить все ненужные ветки 
