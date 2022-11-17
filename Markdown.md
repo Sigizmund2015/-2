@@ -18,4 +18,8 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 * Строка 
 
-* нумерование 
+1,2,3 ... нумерование списка 
+
+1.
+
+2.
