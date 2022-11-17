@@ -6,7 +6,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 * ## Заголовок 
 
-* = или -
+* = или - -подчёркиваем этими символами (не менее 3 подряд) выделяют заголовки первого ("=") и второго ("-") уровней.
 
 * **Полужирныое**
 
@@ -18,4 +18,4 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 * Строка 
 
-* нумерование 
+* нумерование
