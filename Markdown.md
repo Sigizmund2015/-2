@@ -14,7 +14,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 * Полужирное курсивное начертание 
 
-* Зачёркнутый текст
+* ~~Зачёркнутый текст~~ (~~текст ~~)
 
 * Строка 
 
