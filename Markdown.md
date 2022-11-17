@@ -16,6 +16,6 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 * Зачёркнутый текст
 
-* Строка 
+* * Строка - ненумерованные списки, символ (*) в начале строки 
 
 * нумерование 
